@@ -1,6 +1,6 @@
 # COVID-19 Classification Project
 
-This project focuses on the classification of COVID-19 cases using machine learning and deep learning models. The project is developed in Python and utilizes libraries such as TensorFlow, scikit-learn, and others for data processing, model creation, evaluation, and model saving.
+This project focuses on the classification of COVID-19 cases using the stacking two deep learning models. The project is developed in Python and utilizes libraries such as TensorFlow, scikit-learn, and others for data processing, model creation, evaluation, and model saving.
 
 ## Project Structure
 
@@ -16,8 +16,8 @@ The project is structured as follows:
 
 ## Running the Project
 
-1. Run `train_and_evaluate.py` to train and evaluate the machine learning and deep learning models.
-2. Run `main.py` to perform predictions using the trained models.
+1. Run `train_and_evaluate.py` to train and evaluate the deep learning models.
+2. Run `main.py` to perform predictions using the stacked models.
 
 ## Libraries Required
 
