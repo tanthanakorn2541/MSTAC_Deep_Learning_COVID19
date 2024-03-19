@@ -1,4 +1,4 @@
-# COVID-19 Classification Project
+# MSTAC: A Multi-Stage Automated Classification of COVID-19 Chest X-ray Images Using Stacked CNN Models
 
 This project focuses on the classification of COVID-19 cases using the stacking two deep learning models. The project is developed in Python and utilizes libraries such as TensorFlow, scikit-learn, and others for data processing, model creation, evaluation, and model saving.
 
