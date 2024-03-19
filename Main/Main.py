@@ -1,6 +1,5 @@
 from Modeling.DataHandler import DataHandler
 from Modeling.PerformanceEvaluator import PerformanceEvaluator
-from train_and_evaluate import evaluate_and_combine_predictions, PerformanceEvaluator
 from tensorflow.keras.models import load_model
 import numpy as np
 
